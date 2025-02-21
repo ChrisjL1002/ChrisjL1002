@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning mod menus
 - 💞️ I’m looking to collaborate on making mods
-- 📫 How to reach me discord
+- 📫 How to reach me: discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: im cool😎
 

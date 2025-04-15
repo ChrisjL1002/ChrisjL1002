@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DrQuan
-- 👀 I’m interested in coding
-- 📫 How to reach me: discord
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: im cool😎
+- 👋 Hi, I’m Chris
+- I do coding stuff
+- Fun fact: I'm cool
+
+I do all sorts of coding stuff like "malware", command line games, and other stuff
